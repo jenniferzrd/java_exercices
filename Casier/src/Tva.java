@@ -1,3 +1,13 @@
+/*
+ Définir une classe avec un constructeur, une méthode et créer une instance de cette classe
+ Un programme qui calcule les montants de la TVA pour 10 montants d'une table
+ Le calcul sera fait dans une méthode qui accepte comme parametre : le tableau des montants
+ et le taux de TVA
+ La méthode calcule les montants de la TVA et les ajoute dans le tableau
+ Enfin, le programme principal affiche le tableau des montants de TVA
+ 
+ */
+
 import java.util.Hashtable;
 
 

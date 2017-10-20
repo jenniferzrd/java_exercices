@@ -1,3 +1,12 @@
+/*
+ On souhaite définir une classe Casier qui permet de stocker 10 entiers et de les récup
+ en  cas de besoin. Pour stocker les entiers, la classe fournira la méthode
+ Void StockageEntier();// l'utilisateur va donner les valeurs
+ Pour afficher les valeurs la classe fournira la méthode
+ Void affichageEntiers(int[] tableau);
+ Tester le prog dans la main 
+ */
+
 import java.util.Scanner;
 
 public class Casier {
